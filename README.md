@@ -1,2 +1,2 @@
 # Jogo-Space-Shooter
-  Criando estilo Space Shooter - DIO
+  Criando jogo estilo Space Shooter - DIO
